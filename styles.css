@@ -1,3 +1,19 @@
-.container {
+.cabeçalho {
     padding-left: 100px;
+}
+
+.rodape {
+    background-color: violet;
+    color: violet;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.produtos-em-geral {
+    background-color: blueviolet;
+}
+
+.carrinho-de-compras {
+
 }
